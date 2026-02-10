@@ -108,7 +108,7 @@ PACOTES_SISTEMA=(
     xz
     
     # Window Manager
-    hyperland
+    hyprland
     nemo
     wofi
     
@@ -116,7 +116,8 @@ PACOTES_SISTEMA=(
     kitty
     
     # Media Player
-    eog mvp
+    eog 
+    mpv
     
     # Timeshift (snapshots/backup)
     timeshift
